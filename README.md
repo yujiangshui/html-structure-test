@@ -17,6 +17,16 @@ HTML 标签样式测试文件。
 
 欢迎添加更多常用的结构测试用例，或者依据 HTML 语义性对本文档结构进行调整、补充。
 
+## 感谢
+
+整理本项目时，参考了下列资料，感谢。
+
+* [W3School](http://www.w3school.com.cn/tags/index.asp)
+* [WP Test Demo](http://wptest.io/demo/)
+* [亂數假文產生器](http://www.richyli.com/tool/loremipsum/)
+* [html5doctor](http://html5doctor.com/)
+* [bootstrap](http://getbootstrap.com/)
+
 ## 协议
 
 WTFPL
