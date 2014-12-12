@@ -9,6 +9,9 @@ HTML 标签样式测试文件。
 
 可以在线预览浏览器默认样式下的结构：[html-structure-test.html](html-structure-test.html)
 
+如果你只是需要测试正文样式，可以使用：[article-test.html](article-test.html)
+
+
 ## 使用方法
 
 下载本项目，打开 `html-structure-test.html` 文件，将 `.content` 中的 HTML 结构复制到你项目中对应位置进行测试。
